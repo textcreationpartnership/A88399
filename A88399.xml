@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Newes from Wales or, The Prittish Parliament. Called, and assembled upon many cood reasons and considerations, and for the benefit of her countries to secure them from her round-head, long-tayld enemies, by the crave and politick wisdoms of her prittish purgesses. With many other pusinesses, projects and purposes, tending to the relief of her Prittish Commons, and the honour and reputations of her country of Wales. Newly sent up py her trusty and welpeloved cousin the Welch empassadour, to give all the world notice of her purpose, to call a Welch Parliament. And lately her manifold grievances hereunto joyned and annexed. Written py her loving cousin and well-willer Morgan Loyd.</title>
+            <author>Loyd, Morgan.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88399</idno>
+            <idno type="STC">Wing L2663</idno>
+            <idno type="STC">Thomason E147_4</idno>
+            <idno type="STC">ESTC R8703</idno>
+            <idno type="EEBO-CITATION">99873376</idno>
+            <idno type="PROQUEST">99873376</idno>
+            <idno type="VID">156669</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88399)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156669)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 26:E147[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Newes from Wales or, The Prittish Parliament. Called, and assembled upon many cood reasons and considerations, and for the benefit of her countries to secure them from her round-head, long-tayld enemies, by the crave and politick wisdoms of her prittish purgesses. With many other pusinesses, projects and purposes, tending to the relief of her Prittish Commons, and the honour and reputations of her country of Wales. Newly sent up py her trusty and welpeloved cousin the Welch empassadour, to give all the world notice of her purpose, to call a Welch Parliament. And lately her manifold grievances hereunto joyned and annexed. Written py her loving cousin and well-willer Morgan Loyd.</title>
+                  <author>Loyd, Morgan.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J.G. and A.C.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A political satire and parody of Welsh dialect.</note>
+                  <note>Signatures: [A]⁴.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Political satire --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Humor.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156669:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 6 -->
+            <p>NEWES FROM WALES OR, THE PRITTISH PARLIAMENT.</p>
+            <p>CALLED, And aſſembled upon many cood <hi>Reaſons</hi> and Conſiderations, and for the benefit of her Countries to ſecure them from her <hi>Round-head, Long-tayld Ene<g ref="char:EOLhyphen"/>mies,</hi> by the crave and politick wiſdoms of her <hi>Prittiſh Purgeſſes.</hi>
+            </p>
+            <p>With many other Puſineſſes, Projects and Pur<g ref="char:EOLhyphen"/>poſes, tending to the Relief of her Prittiſh Com<g ref="char:EOLhyphen"/>mons, and the Honour and Reputations of her Country of <hi>Wales.</hi>
+            </p>
+            <p>Newly ſent up py her truſty and welpeloved Couſin the Welch Empaſſadour, to give all the World Notice of her purpoſe, to call a <hi>Welch Parliament.</hi>
+            </p>
+            <p>And lately her manifold Grievances hereunto joyned and annexed.</p>
+            <p>Written py her loving Couſin and Well-willer Morgan Loyd.</p>
+            <p>Printed for J.G. and A.C. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156669:2"/>
+            <!-- PDF PAGE 7 -->
+            <pb facs="tcp:156669:2"/>
+            <!-- PDF PAGE 7 -->
+            <head>The Welch Parliament.</head>
+            <p>HEr Countries of <hi>Wales</hi> peing te ancient Nur<g ref="char:EOLhyphen"/>ceries and habitations of the true <hi>Prittiſh</hi> plood, aſcending from old anticke Families, having to her creat diſgrace received many affronts, indignities, and injuries from her cunning ene<g ref="char:EOLhyphen"/>mies, eſpecially from that Raſcall, Repellious Rogue or Round-head <hi>Robin Little-eyes;</hi> and having in due and haſtie conſiderations thereof penned and publiſhed her Declarations, Complaints, and Petitions, together with her Proteſtations, in hope to have good anſwers and ſatisfaction thereunto; and contrary (looke you) to her expectations, have to her further reproaches recei<g ref="char:EOLhyphen"/>ved nothing put contumelies and diriſions, and no or<g ref="char:EOLhyphen"/>ders taken for the peating out neither with Cuns, Pikes, nor long Pills, her long-tayl'd enemies, who make her countries poore and peggarly, to the conſtruction and ruine of her Coods and undoing of her wifes and ſhil<g ref="char:EOLhyphen"/>dren: Her plood peing therefore very hot, and her heads full of learned knowledges in all points and po<g ref="char:EOLhyphen"/>litick puſineſſes, and having creat underſtandings, and many quick piting griefes in her poſome, her is in the names and appellations of all her ſhires and their moun<g ref="char:EOLhyphen"/>taines, purpoſed to diſſemble and call a creat and crave company of <hi>Prittiſh</hi> Purgeſſes, who ſitting in her cray apparels and long Hookes in her hands ſhall lay apout them in judicature and ſentences, and ſhall make the creat Malefactors and defenders with te ſmall eyes to
+<pb facs="tcp:156669:3"/>
+               <!-- PDF PAGE 8 -->runne into puniſhments, and not tare to appeare before their pold prittiſh faces diſſembled and gathered toge<g ref="char:EOLhyphen"/>ther on one of the Welch Mountaines, in manners and faſhions (though a farre off) like unto a Parliament, and then her will amongſt her owne com<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> men and coſen Purgeſſes find reſpects and favours, and have all her Pills and Petitions not withſtanding their bad ortho<g ref="char:EOLhyphen"/>graphies and Engliſh enditings read to the end, and be<g ref="char:EOLhyphen"/>yond the end, and more revenges, botes and ſhudge<g ref="char:EOLhyphen"/>ments paſt and repaſt upon her Round-headed Long-tayld Enemies then her out of her cood natures and com<g ref="char:EOLunhyphen"/>paſſions can deſire. And ſome part of her Countries and the Prittiſh Ocean being in proſpects and ſights &amp; very neer unto Ireland, where it may be ſuppoſed, that py the running away of Rebels, creat pieces of pred and ſcheeſe have for haſt dropt out of their knapſacks; whereby her Long tayld enemies have bin ready to fall on, it is there<g ref="char:EOLhyphen"/>fore thought fit in her prittiſh wiſdoms, that her Coun<g ref="char:EOLhyphen"/>trymen ſhould be ready at morning, noon and nightwith creat watches in Sea-towns, to peat her enemies, if they ſhould out of their cruell ſtomacks come in creat troops come upon planks or poords of ſhips, ſwiming over her prittiſh Seas, with purpoſes to land in Wales, and this he do purpoſe ſhall firſt pe concluded and agreed uPon in the prittiſh Parliament. He do next mean though her purſes pe not ſo p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g, yet her have hands cods plutter a nails and arms too, and therfore he will not pe put into fears with her creat huge high Mountains, put he do pur<g ref="char:EOLhyphen"/>poſe to make to make Taxations and Eaſments upon all her ſhires and lay on ſilver two pences upon all her cun<g ref="char:EOLhyphen"/>try-mans heads &amp; pates, and with cood moneys as her have contriv'd and plotted the puſineſſes and ſharges to a farthing, her will make all her mountains wheron her Coats, ſheeps, Rvnts, do take bare Commons together, to be as plain as her table in her houſe, and this her will pring to defears and purpoſes, with her ſhovels and her ſpades and all her poys ſhal work till her proud moun<g ref="char:EOLhyphen"/>tains pe turned into creen middows, that ſo her cows &amp;
+<pb facs="tcp:156669:3"/>
+               <!-- PDF PAGE 8 -->coats may fill their pellies, and make her creater ſtore of putter and ſheeſe, than ever was in any lnowledge or memory in Wales, And wheras her poor tenants in her Countties are forced to pay creat ſtore of Rents for her poor Cottages, her muſt alſo pay ſhillings and pence to her Shentries and Landlords, her will have therfore pub<g ref="char:EOLhyphen"/>lique laws contrived in goodfaſhions, that her may dwel in pig houſes, and pe not ſubject to ſell her Cows at her markets, to her great hinderances and loſſes, to make mo<g ref="char:EOLunhyphen"/>nies for ſuch unreaſonable and prvtiſh payments, put that her may pay two pennies yearly, according as it was in the dais of King Arthur, a creat while ago, and not be found to run away in her old apparels up to <hi>Loudon,</hi> to hide her ſelf from her Country-man Landlord. He is al<g ref="char:EOLhyphen"/>ſo reſolved, that this ſhall be alſo taken into conſidera<g ref="char:EOLhyphen"/>tions and conſultations in the Prittiſh Parliament. He is alſo very angry, and in great Furies, againſt her pabling Countrywoman of hers, that whe her is in her rages any where, and do out of her bloud ſwear by S. Taffie her will in ſimilitudes and imitations anſwer her again with polices and repetitions, and cry S. Tavy, then if her caſt her looks into admirations apout her, &amp; if her ask what pooby is that, that makes her in the pryars, her will ſay what pooby is that, then if her ſay come out if her dare for her nails, her will ſay if her dare for her nails, and when her after much moleſtations of mind enquir'd and asked the queſtions of Sir ſenkins the Curate of her pa<g ref="char:EOLhyphen"/>riſh, concerning the affronts, and what welch Divels han ted the vds, he made his reſolutions and definitions, that it was her puling Countrey-womens Echoes, as he cals her, who had in the ſtony powels and pellies of the mountains, Her wil therfore make her humble ſuits, that this welch ſhe lived gen Echoes by names and ſurnames may pe puniſhed out of her vds and mountains, cauſe her hath ſo often ſtird up her prittiſh plonds with hermow and ſheers, &amp; her could never in all her dais have a blow at her crowns with her long welch hooks, for if her culd
+<pb facs="tcp:156669:4"/>
+               <!-- PDF PAGE 9 -->her wuld have cut her tongues out of her heads, for moc<g ref="char:EOLhyphen"/>king her Cuntry wen, but cauſe her is her unknown cun<g ref="char:EOLhyphen"/>try woman the fore her will put in ſtrange Articles and Inditements againſt this Tivell in the uds, that ſo her pri<g ref="char:EOLhyphen"/>tiſh Parliament m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y rake Order to puniſh the pawling tongue of Mrs. <hi>Nobodies,</hi> or Mrs. <hi>Echoes</hi> as they call her. There is alſo a kind of fellows in leather tublets &amp; plew priches, that when her pring her cood peas, parly, Oat, &amp; pread corn to crind at her mil; was never honeſt man, put coſen her in the meaſures of her parly &amp; other corns, her will deſire her prittiſh Parliament either to turn her out of her mils in her cuntries, or make her honeſt if her can or hang her on the mountains. And wheras in her coun<g ref="char:EOLhyphen"/>tries there are apundance of very pleaſant prooks &amp; Ri<g ref="char:EOLhyphen"/>ver, and was creat ſtore of cood fiſh in them, the pritiſh Parliament ſhall make laws and ſtatutes for the cood of her <hi>Common-wealths and Countries,</hi> that Red-Herrings with pels apout her necks ſhall pe put into thoſe prooks and Rivers, that her ſhenerations may multiply, and with her angle her may go to the prook, and take red herring at her pleaſure with pels about her neck, and this matter of cood note her welch Parliament was take into her conſideration, And moreover wheras many creat Goats take their foods and dyets on the crags and mountains, her was deſire her welch Parliament, that cauſe her have as long peards as her country man, they may pear Armes as well as her countryman againſt her ſoe, with <hi>Round<g ref="char:EOLhyphen"/>heads, and ſmall eyes, thoſe putter and theeſe eaters, and in dangerus occaſions, pecsme ſouldiers in definces of her coun<g ref="char:EOLhyphen"/>tries of Wales. There was moreover a prown politick ene<g ref="char:EOLhyphen"/>mies, that with much cruelties ſuck the plood, and eat the pones of her ſheeps and young lambs, and do much oppreſſions, and then ſlip into the vds, and hide her ſelves in habitations under th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ground, put her welch Parliament ſhall put her politick v<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſhips to tryals, and having found her a plood-ſuc<g ref="char:EOLhyphen"/>ker, ſhall if her can, command that all her head may pe cut of on a plock</hi> And her welch Parliament ſhall make a cood law and order, that when her comes to markets or Fairs,
+<pb facs="tcp:156669:4"/>
+               <!-- PDF PAGE 9 -->and fall to pribble prabble with her country man, her may ſoundly paſt his pody and preak his crown without fear of being carryed pefo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Shuſtice <hi>Morgan</hi> her coſen, to make her appearance for fait and Patteries of her Countryman. And becauſe her Pariſhes are conſiſting of a few pighouſes out of which a little ſmoak doth break forth at the top of ſhimneys, and that her <hi>Schoolmaſters</hi> have put poor &amp; peg<g ref="char:EOLhyphen"/>gerly <hi>penſions, for her Inſtructions of her shildren,</hi> he was therfore in intention to deſire her welch <hi>Parliament</hi> to give her childs <hi>Tutors and Schoolmaſters</hi> tens. more yearly for to pay her pooks reparre's, and other cood neceſſaries, than ſo her children may learn to make petter <hi>Orthographies,</hi> then her <hi>Fore-fathers,</hi> and not put up deriſion for her pad-Engliſh. And moreover her <hi>Parliaments</hi> ſhall provide that there was be more cood <hi>Leeks</hi> ſowd in <hi>peds</hi> to wear in her <hi>Monmouth Caps</hi> upon St. <hi>Taffies tay,</hi> and that none ſhall mock her for her cuſtoms and faſhions in doing ſo, in ado<g ref="char:EOLhyphen"/>rations of her cood codly countryman. And that if her rice or co a wooing to her coſen <hi>ap Ienkins,</hi> or her coſen <hi>ap Williams</hi> daughter out of meere amours and affections, and with her cood actions and playing on her Welch Harpes doe get <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er in tunes and matrimonies, and doe happen af<g ref="char:EOLhyphen"/>terward to like petter of her coſen <hi>Powels</hi> daughter and heire to awle her lands and coods, her Welch Parliament ſhall allow her to have a paire of wives as well as a paire of poots, that her may commit Matrimonies with the one for affections, and with the other for her creat and rich portions, and not be hanged on ſhibbits for her cood wills And her will alſo ſue unto her parliament, that her may have Cr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nſtones in awle Townes and creat Corporations, to <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tind and make ſharp her tongues welch pills, that they may cut her enemies into ſhips and ſmall pieces, and de<g ref="char:EOLhyphen"/>ſend her lands and coods and awle her countries againſt her pragging foes, that would invade her pounds, marches and Territories of <hi>Wales.</hi> And that if any of her poor coſen or countrey men doe through neceſſities, wants, and po<g ref="char:EOLhyphen"/>verties,
+<pb facs="tcp:156669:5"/>
+               <!-- PDF PAGE 10 -->ſteal or porrow of her next Neighbours, any cow, ſheepe, coat, or peaſt, and be apprehended for felonies, her ſhall py ſtatutes of Parliament not pe put to her pook becauſe her is pad reader of Engliſh Pooks and languages. Put as for points and crounds of Religions, her care not for entring into ſuch creat diſputations, put her doe with all her Papiſts in her countries were paniſhed, that her might as true Proteſtants live on her lands in creat ho<g ref="char:EOLhyphen"/>nours and Reputations, and her will bee alwayes readie with pills and hookes to peat downe papiſts in awle her countries, and ſpend her beſt plood to maintaine the cood Goſpels, and that her ſelf is true Prittain and ancient ſhen, tlemen of <hi>Wales,</hi> as it ſhall be recorded in the Welch par<g ref="char:EOLhyphen"/>liament which we call from the top of the Mountaines that her coſen <hi>ap Lewes,</hi> her coſen <hi>ap Griffeth</hi> in the Vale, her coſen <hi>ap Thomas, ap Iones, ap David, ap Williams, ap Morgan, ap Powel,</hi> and <hi>ap Iinken,</hi> with awle their other urſhips in <hi>Wales,</hi> may upon the mountains in creat haſte &amp; expeditions meet as Purges of the welch Parliament.</p>
+            <list>
+               <head>The Puſineſſes and conſiderations of the welch Parliament are theſe.</head>
+               <item>THat cood watch may be kept in Sea-towns, to prevent the landing of the long tayl'd enemies.</item>
+               <item>To lay two pennies on all her Country mans heads, for her Mountains with her <g ref="char:V">Ʋ</g>illages.</item>
+               <item>That her may pay ſmall Rents to her pritiſh Landlords.</item>
+               <item>That Red-herrings with pills apout her necks may pe put into prooks and Rivers, to make creat generations.</item>
+               <item>That coats with as long peards as her country man, may pear Arms againſt her foes and enemies.</item>
+               <item>That all her politick plood-ſucking Foxes heads may bee cut off on a plock.</item>
+               <item>That ber may preak her country mans pate at market, and not pe troubled for ſalt and patterie.</item>
+               <item>That Schcolmaſters may have yearly 10. <hi>s.</hi> penſions more to puy her pooks.</item>
+            </list>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
